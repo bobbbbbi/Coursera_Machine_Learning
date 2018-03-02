@@ -1,2 +1,3 @@
-# Coursera_Machine_Learning
-Coursera Machine Learning Programs
+# Coursera_Machine_Learning - Andrew Ng
+
+Coursera Machine Learning Program by Prof Andrew Ng
